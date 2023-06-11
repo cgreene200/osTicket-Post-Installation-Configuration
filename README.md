@@ -41,9 +41,9 @@
 
 ## Configure "Departments"
 
-### Login to the "Administrator Panel. Afterwards, click on the "Agent" tab, then click on the "Departments" tab and lastly, click on "Add New Role" as shown below:
+### Login to the "Administrator Panel. Afterwards, click on the "Agent" tab, then click on the "Departments" tab and lastly, click on "Add New Department" as shown below:
 
-![alt text](https://i.imgur.com/5KTI4p7.png)
+![alt text](https://i.imgur.com/dohgha7.png)
 
 ![alt text](https://i.imgur.com/z9iuFvw.png)
 

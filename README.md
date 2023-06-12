@@ -4,7 +4,7 @@
 
 # **osTicket Project**:
 ## In this project, osTicket will be further configured and customized.
-## I will learn how to use osTicket as, an administrator, a helpdesk technician and as a customer.
+## A user will learn how to use osTicket as, an administrator, a helpdesk technician and as a customer.
 
 ## What Azure resources will be used in this project?
 * Azure Virtual Machine (Windows 10)
@@ -32,7 +32,7 @@
 ![alt text](https://i.imgur.com/zChbV6f.png)
 
 ![alt text](https://i.imgur.com/58XdSeP.png)
-
+### After clicking on "Add New Role", start entering information for "Definition" and "Permissions" tabs, as shown above and below.
 ![alt text](https://i.imgur.com/E6M8NAS.png)
 
 ![alt text](https://i.imgur.com/V13bc4i.png)
@@ -46,7 +46,7 @@
 ![alt text](https://i.imgur.com/dohgha7.png)
 
 ![alt text](https://i.imgur.com/z9iuFvw.png)
-
+### After clicking on "Add New Department", start filling out "Settings" and "Access" tabs, as shown on the next few screenshots.
 ![alt text](https://imgur.com/a/TecMB1z)
 
 ![alt text](https://i.imgur.com/mAjg0gK.png)
@@ -60,26 +60,26 @@
 
 
 ![alt text](https://i.imgur.com/AXoUcQJ.png)
-
+### After clicking on "Add New Team", complete filling out "Team" and "Members" tabs, as shown on the following screenshots.
 ![alt text](https://i.imgur.com/nBQKM3S.png)
 
-![alt text](https://i.imgur.com/ijXuZgl.png)
+![alt text](https://i.imgur.com/dRzsYAS.png)
 
 
 ## Configure "Agents"
 
-### Login to the "Administator" Panel. Afterwards, click on the "Agent" tab, then click on the "Agents" tab and lastly, click on "Add New Agent" as shown below:
+### Login to the "Administrator" Panel. Afterwards, click on the "Agent" tab, then click on the "Agents" tab and lastly, click on "Add New Agent" as shown below:
 
 
 ![alt text](https://i.imgur.com/4laUKBj.png)
 
 ![alt text](https://i.imgur.com/EyhdYRz.png)
-
+### After clicking on "Add New Agent", finish filling out the "Account", "Access", "Permissions" and the "Teams" tabs, as shown on the following screenshots.
 ![alt text](https://i.imgur.com/qQkjrAJ.png)
 
 ![alt text](https://i.imgur.com/vXfIwJj.png)
 
-![alt text](https://i.imgur.com/W2nNJI2.png)
+![alt text](https://i.imgur.com/B0axhap.png)
 
 
 ## Configure "Users"
@@ -95,7 +95,7 @@
 
 ## Configure "SLA"
 
-### Login to the "Administrator Panel. Afterwards, click on the "Manage" tab, then go down and click on the "SLA" and lastly, click on "Add New SLA Plan" as shown below:
+### Login to the "Administrator" Panel. Afterwards, click on the "Manage" tab, then go down and click on the "SLA" and lastly, click on "Add New SLA Plan" as shown below:
 
 
 ![alt text](https://i.imgur.com/sV9DM1V.png)
@@ -110,12 +110,12 @@
 
 ## Configure "Help Topics"
 
-### Login to the "Administrator Panel. Afterwards, click on the "Manage" tab, then move left and click on "Help Topics" and lastly, click on "Add New Help Topic" as shown below:
+### Login to the "Administrator" Panel. Afterwards, click on the "Manage" tab, then move left and click on "Help Topics" and lastly, click on "Add New Help Topic" as shown below:
 
 ![alt text](https://i.imgur.com/7tXwTVE.png)
-
+### After clicking on "Add New Help Topic", finish filling out the "Help Topic Information", "New Ticket Options" and the "Forms" tabs, as shown on the following screenshots.
 ![alt text](https://i.imgur.com/n9KYsoj.png)
 
-![alt text](https://i.imgur.com/J13S37X.png)
+![alt text](https://i.imgur.com/cRG1ezm.png)
 
 ![alt text](https://i.imgur.com/pQ5wBUx.png)
